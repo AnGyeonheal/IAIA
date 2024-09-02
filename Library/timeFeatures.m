@@ -24,7 +24,6 @@ xfeature.sra=0;
 xfeature.aav=sum(abs(x))/N;
 
 
-
 %% Energy (sum of power_2)
 xfeature.energy=sum(x.^2);
 
