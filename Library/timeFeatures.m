@@ -1,4 +1,4 @@
-function xfeature=timeFeatures_student(x)
+function xfeature=timeFeatures(x)
 % Returns time-domain features of vector x
 % input:    x, 1-d vector
 % output:   xFeature in table form
