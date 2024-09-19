@@ -15,10 +15,10 @@ xfeature.std=std(x);
 
 %% RMS
 %**** Your code goes here ****
-xfeature.rms=0;
+xfeature.rms=sqrt(sum(x.^2)/N);
 %% Square Root Average
 %**** Your code goes here ****
-xfeature.sra=0;
+xfeature.sra=(sum(sqrt(abs(x)))/N)^2;
 
 %% Average of Absolute Value
 xfeature.aav=sum(abs(x))/N;
@@ -30,7 +30,7 @@ xfeature.energy=sum(x.^2);
 
 %% Peak
 %**** Your code goes here ****
-xfeature.peak=0
+xfeature.peak=max(abs(x));
 
 %% Peak2Peak
 xfeature.ppv=peak2peak(x);
@@ -44,7 +44,7 @@ xfeature.sf=xfeature.rms/xfeature.aav;
 
 %% Crest Factor
 %**** Your code goes here ****
-xfeature.cf=0;
+xfeature.cf=max(abs(x)) / sqrt(sum(x.^2)/N);
 
 
 % Marginal(Clearance) Factor
