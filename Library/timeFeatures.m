@@ -18,7 +18,7 @@ xfeature.std=std(x);
 xfeature.rms=sqrt(sum(x.^2)/N);
 %% Square Root Average
 %**** Your code goes here ****
-xfeature.sra=(sum(sqrt(abs(x)))/N)^2;
+xfeature.sra=(sum(sqrt(abs(x)))/N).^2;
 
 %% Average of Absolute Value
 xfeature.aav=sum(abs(x))/N;
