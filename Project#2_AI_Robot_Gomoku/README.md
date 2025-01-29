@@ -11,11 +11,11 @@
 **Advisor**: Professor YK Kim      
 
                   
-[Report Link](https://github.com/Kwak-Jin/IAIA/blob/master/Project/Robot%20Automation/Report_RobotAutomation.md)         
-[Program Guideline in Korean](https://github.com/Kwak-Jin/IAIA/blob/master/Project/Robot%20Automation/Program%20Guideline.md)         
-[User Guideline for each game](https://github.com/Kwak-Jin/IAIA/blob/master/Project/Robot%20Automation/Instruction.md)         
-[Game board print](https://github.com/Kwak-Jin/IAIA/tree/master/Project/Robot%20Automation/Gameboard)         
-[진도 공유 발표 자료](https://github.com/Kwak-Jin/IAIA/tree/master/Project/Robot%20Automation/Docs(PPT))         
+[Report Link](https://github.com/AnGyeonheal/IAIA/blob/main/Project%232_AI_Robot_Gomoku/Report_RobotAutomation.md)         
+[Program Guideline in Korean](https://github.com/AnGyeonheal/IAIA/blob/main/Project%232_AI_Robot_Gomoku/Program%20Guideline.md)         
+[User Guideline for each game](https://github.com/AnGyeonheal/IAIA/blob/main/Project%232_AI_Robot_Gomoku/Instruction.md)         
+[Game board print](https://github.com/AnGyeonheal/IAIA/tree/main/Project%232_AI_Robot_Gomoku/Gameboard)         
+[진도 공유 발표 자료](https://github.com/AnGyeonheal/IAIA/tree/main/Project%232_AI_Robot_Gomoku/Docs(PPT))         
          
 ![image](https://github.com/user-attachments/assets/63f900ae-578a-4e46-87b2-de9937201b68)
 
